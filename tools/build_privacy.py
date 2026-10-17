@@ -26,7 +26,7 @@ TEMPLATE = """<!doctype html>
 <body>
 <header class="site">
   <div class="wrap">
-    <a class="home" href="/">あいぴー</a>
+    <a class="home" href="/">ipchanee</a>
     <nav><a href="/matoca/">Matoca</a><a href="/matoca/privacy.html">プライバシーポリシー</a></nav>
   </div>
 </header>
@@ -37,8 +37,8 @@ TEMPLATE = """<!doctype html>
 
 <footer class="site">
   <div class="wrap">
-    <p><a href="/matoca/">Matoca サポート</a> &middot; <a href="/">あいぴー</a></p>
-    <p>&copy; 2026 あいぴー</p>
+    <p><a href="/matoca/">Matoca サポート</a> &middot; <a href="/">ipchanee</a></p>
+    <p>&copy; 2026 ipchanee</p>
   </div>
 </footer>
 </body>
