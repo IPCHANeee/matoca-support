@@ -6,7 +6,7 @@
 
 ## お問い合わせ
 - 不具合報告・ご要望: このリポジトリの [Issues](../../issues) へ
-- メール: egosacred@gmail.com
+- メール: matoca.app@gmail.com
 
 ## プライバシーポリシー
 [PRIVACY.md](./PRIVACY.md) をご覧ください。
