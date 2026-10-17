@@ -1,8 +1,5 @@
 # Matoca プライバシーポリシー
 
-> ⚠️ 個人配信の初版として実務上まわせる内容です。**公開・ストア提出前に、可能であれば
-> 専門家のレビュー**を受けてください（日本の個人情報保護法。海外配信時はGDPR/CCPA等を追記）。
-
 最終更新日: 2026-10-17
 提供者（個人開発）: Matoca
 連絡先: matoca.app@gmail.com
@@ -83,11 +80,3 @@
 
 ## 10. お問い合わせ
 Matoca（個人開発）/ matoca.app@gmail.com
-
----
-### 実装との対応（レビュー用・公開版からは削除可）
-- 端末内暗号化: `lib/core/database/encrypted_connection.dart`, `db_encryption_key.dart`（REQ-SEC-001/002）
-- トークン端末内限定: `lib/features/integrations/external_token_vault.dart`（ADR-002 / T3）
-- RLS: `supabase/migrations/0001_actions.sql`（T2 / REQ-SYNC-003）
-- 30日削除: `ActionsRepository.purgeExpired` / `purge_expired_actions()`（ADR-003 / 24_Privacy_Model）
-- 起動ロック: `lib/features/security/`（T1）
